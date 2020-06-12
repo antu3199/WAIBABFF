@@ -1,0 +1,2 @@
+ShowCutscene 1
+Locked 2
